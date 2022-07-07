@@ -21,7 +21,7 @@ p {
 }
 
 .half-width img {
-    width: 160;
+    width: 60;
 }
 
 .flexible-container {
@@ -31,6 +31,8 @@ p {
 
 .link-button {
     text-decoration: none;
+    height: 80px;
+    width: 400px;
     background-image: linear-gradient(orange, tomato);
     padding: 20px 30px;
     color: white;
