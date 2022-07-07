@@ -12,7 +12,7 @@ p {
 }
 
 .orange-color {
-    color: orange;
+    color: tomato;
 }
 
 .half-width {
@@ -32,8 +32,8 @@ p {
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 10px 40px;
+    padding: 20px 30px;
     color: white;
-    font-weight: 400;
+    font-weight: 350;
     border-radius: 50px;
 }
