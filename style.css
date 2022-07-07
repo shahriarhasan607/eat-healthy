@@ -39,3 +39,20 @@ p {
     font-weight: 350;
     border-radius: 50px;
 }
+
+.recipies {
+    text-align: center;
+
+}
+
+footer h2 {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+}
+
+#picture {
+    margin: 0;
+}
